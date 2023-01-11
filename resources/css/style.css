@@ -19,15 +19,24 @@ p {
     text-align: center;
 }
 
-.coming-soon {
+.download {
     color: aquamarine;
 }
 
-.personal {
+.attention {
     color: white;
-    font-family: Verdana;
     font-weight: 300;
     font-size: 42px;
+}
+
+.remembers {
+    color: gray;
+    font-size: 21px;
+}
+
+.symbol {
+    text-align: right;
+    color: gray;
 }
 
 
